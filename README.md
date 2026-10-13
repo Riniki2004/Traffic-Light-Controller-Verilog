@@ -76,7 +76,7 @@ Future Improvements
 
 Author
 
-Riniki Bhuyan
+Riniki Devi
 
 GitHub: "Riniki2004" (https://github.com/Riniki2004)
 
